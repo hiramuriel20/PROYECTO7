@@ -11,5 +11,9 @@ La aplicación permite cargar y analizar un dataset de vehículos. Incluye funci
     Controles interactivos como selectores de columnas y ajuste del número de bins.
 
   contine datos como:
-  precio, color, klm
+  -precio, 
+  -color, 
+  -klm.
+  con los cuales sepuede interactuar
+  
 
